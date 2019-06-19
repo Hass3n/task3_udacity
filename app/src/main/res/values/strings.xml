@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="qustion1">Who won the better player prize in 2018?</string>
+    <string name="messi">Messi</string>
+    <string name="salah">salah</string>
+    <string name="modric">Modric</string>
+    <string name="question2">What is the favouite player?</string>
+    <string name="ranaldo">Ranaldo</string>
+    <string name="question3">who won the world cub in 2018</string>
+    <string name="tamer_hosney">Egypt</string>
+    <string name="amer">Macro</string>
+    <string name="nansi">France</string>
+    <string name="question4">write the answer in Edittext </string>
+    <string name="question5"> who won  Nobel prize in 2010 ?</string>
+    <string name="submit">submit</string>
+    <string name="write_the_asnswer">write the asnswer</string>
+</resources>
